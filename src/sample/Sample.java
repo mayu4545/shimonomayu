@@ -4,7 +4,7 @@ public class Sample {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		String name = "山田 花子";
+		String name = "下農麻由";
 		int age = 25;
 		String hobby = "映画鑑賞";
 

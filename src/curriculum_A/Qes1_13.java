@@ -163,11 +163,19 @@ public class Qes1_13 {
         
         //12　整数型に変換
         int age3 = Integer.parseInt(age2);
-        int height4 = Integer.parseInt(height3);
-        
+        int height3 = (int)Double.parseDouble(height2);
+        //結果の出力
         System.out.println(age3);
         System.out.println(height3);
         System.out.println();
+        
+        
+        //13　trueの出力
+        System.out.println("判定結果:" + (age3 >=25 || height3 >=160));
+        
+        
+        
+        
 
         
         
